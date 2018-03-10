@@ -9500,4 +9500,11 @@ label.panel-block:hover {
   background-color: whitesmoke;
   padding: 3rem 1.5rem 6rem;
 }
+
+.button:a hover {
+  transition: .2s;
+  color:#7ab31e;
+  text-decoration: none;
+  margin-right: 50px;
+}
 /*# sourceMappingURL=bulma.css.map */
